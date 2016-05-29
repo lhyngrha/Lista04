@@ -1,0 +1,2 @@
+\\mac\home\documents\visual studio 2015\Projects\Lista04\WcfConcessionaria\obj\Debug\WcfConcessionaria.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2015\Projects\Lista04\WcfConcessionaria\obj\Debug\WcfConcessionaria.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+\\mac\home\documents\visual studio 2015\Projects\Lista04\Modelo\bin\Debug\Modelo.dll
+\\mac\home\documents\visual studio 2015\Projects\Lista04\Modelo\bin\Debug\Modelo.pdb
+\\mac\home\documents\visual studio 2015\Projects\Lista04\Modelo\bin\Debug\BaseDados.dll
+\\mac\home\documents\visual studio 2015\Projects\Lista04\Modelo\bin\Debug\BaseDados.pdb
+\\mac\home\documents\visual studio 2015\Projects\Lista04\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\Lista04\Modelo\obj\Debug\Modelo.dll
+\\mac\home\documents\visual studio 2015\Projects\Lista04\Modelo\obj\Debug\Modelo.pdb
+\\psf\Home\Documents\Visual Studio 2015\Projects\Lista04\Modelo\bin\Debug\Modelo.dll
+\\psf\Home\Documents\Visual Studio 2015\Projects\Lista04\Modelo\bin\Debug\Modelo.pdb
+\\psf\Home\Documents\Visual Studio 2015\Projects\Lista04\Modelo\obj\Debug\Modelo.dll
+\\psf\Home\Documents\Visual Studio 2015\Projects\Lista04\Modelo\obj\Debug\Modelo.pdb

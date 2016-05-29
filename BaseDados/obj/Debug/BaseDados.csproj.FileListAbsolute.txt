@@ -1,0 +1,11 @@
+\\mac\home\documents\visual studio 2015\Projects\Lista04\BaseDados\bin\Debug\BaseDados.dll.config
+\\mac\home\documents\visual studio 2015\Projects\Lista04\BaseDados\bin\Debug\BaseDados.dll
+\\mac\home\documents\visual studio 2015\Projects\Lista04\BaseDados\bin\Debug\BaseDados.pdb
+\\mac\home\documents\visual studio 2015\Projects\Lista04\BaseDados\obj\Debug\BaseDados.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\Lista04\BaseDados\obj\Debug\BaseDados.dll
+\\mac\home\documents\visual studio 2015\Projects\Lista04\BaseDados\obj\Debug\BaseDados.pdb
+\\psf\Home\Documents\Visual Studio 2015\Projects\Lista04\BaseDados\bin\Debug\BaseDados.dll.config
+\\psf\Home\Documents\Visual Studio 2015\Projects\Lista04\BaseDados\bin\Debug\BaseDados.dll
+\\psf\Home\Documents\Visual Studio 2015\Projects\Lista04\BaseDados\bin\Debug\BaseDados.pdb
+\\psf\Home\Documents\Visual Studio 2015\Projects\Lista04\BaseDados\obj\Debug\BaseDados.dll
+\\psf\Home\Documents\Visual Studio 2015\Projects\Lista04\BaseDados\obj\Debug\BaseDados.pdb
